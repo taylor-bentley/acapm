@@ -8,3 +8,6 @@
 * Create a string that is a json object
 * The key values should be the inputs you get from the user
 * Save this json to a file called package.json
+
+# Bonus
+* Don't use a loop
