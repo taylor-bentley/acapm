@@ -10,4 +10,6 @@
 * Save this json to a file called package.json
 
 # Bonus
+* Don't hardcode the readlines
 * Don't use a loop
+* Don't using string concatenation or template literals
