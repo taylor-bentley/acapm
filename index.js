@@ -12,13 +12,13 @@ const rl = readline.createInterface({
 
 const jsonData = {
     "name" : "",
-    "package-name" : "",
+    "author" : "",
     "package-description" : "",
     "version" : "",
     "main" : "",
 };
 
-const prompts = ["Name : ", "Name of package: ", "Package description: ", "Version: ", "Main file path: "];
+const prompts = ["Name of Package: ", "Author: ", "Package description: ", "Version: ", "Main file path: "];
 
 const writeJsonObj = (data) => {
     fs.writeFile("package.json", data, (err) => {

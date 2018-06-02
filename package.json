@@ -1,6 +1,6 @@
 {
-  "name" : "yoginicodini",
-  "package-name" : "tbpackage",
+  "name" : "tbpackage",
+  "author" : "yoginicodini",
   "package-description": "package stuff",
   "version": "1.0.0",
   "main": "index.js"
